@@ -1,0 +1,21 @@
+Question Number,Question,Option A,Option B,Option C,Option D,Correct Answer
+1,What does CPU stand for?,Central Processing Unit,Central Process Unit,Computer Personal Unit,Central Processor Unit,A
+2,Which programming language is known as the "mother of all languages"?,Java,C++,Assembly Language,FORTRAN,C
+3,What is the primary purpose of an operating system?,Running applications,Managing hardware resources,Providing internet access,Creating documents and spreadsheets,B
+4,Which company developed the first graphical user interface (GUI) for personal computers?,Microsoft,IBM,Apple,Xerox,B
+5,What does the acronym HTML stand for?,Hyper Text Markup Language,High-level Text Machine Language,Hyper Transfer Markup Language,Hyperlink and Text Markup Language,A
+6,What is the function of RAM in a computer?,Permanent storage,Temporary storage,Processing data,Connecting external devices,B
+7,Which programming language is often used for artificial intelligence and machine learning?,Python,Java,C#,Ruby,A
+8,What is the purpose of a firewall?,Protecting against viruses,Controlling network access,Filtering spam emails,Enhancing computer speed and performance,B
+9,What does the acronym URL stand for?,Uniform Resource Locator,Universal Resource Locator,Uniform Retrieval Locator,Universal Retrieval Locator,A
+10,Which of the following is a programming paradigm?,Algorithmic programming,Functional programming,Hardware programming,Network programming,B
+11,What is the main function of a compiler?,Translating high-level code to machine code,Executing code line by line,Managing memory allocation,Interpreting code in real-time,A
+12,In computer graphics, what does RGB stand for?,Red, Green, Blue,Random Graphics Block,Read, Generate, Build,A
+13,What is the purpose of a database management system (DBMS)?,Creating computer games,Managing and organizing data,Providing internet services,Developing software applications,B
+14,What is the binary equivalent of the decimal number 25?,11001,10100,11111,10010,A
+15,Which data structure follows the Last In, First Out (LIFO) principle?,Queue,Stack,Linked List,Tree,B
+16,What is the primary purpose of an SQL query?,Updating software,Retrieving data from a database,Creating graphics,Managing computer networks,B
+17,Which protocol is used for secure communication over a computer network?,HTTP,FTP,SSH,SMTP,C
+18,What is the purpose of the "if-else" statement in programming?,Creating loops,Executing a block of code conditionally,Defining variables,Handling errors and exceptions,B
+19,What is the role of a version control system in software development?,Managing project timelines,Tracking changes in source code,Creating user interfaces,Testing software performance,B
+20,What is the significance of the Turing Test in artificial intelligence?,Speech recognition,Robotics,Machine learning,Testing a machine's ability to exhibit human-like intelligence,C
