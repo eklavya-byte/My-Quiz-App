@@ -65,7 +65,7 @@ public class QuizResponse extends HttpServlet {
 	}
 	
 	
-	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 		// TODO Auto-generated method stub
 		
 //		User user = (User) request.getSession().getAttribute("userObj");
