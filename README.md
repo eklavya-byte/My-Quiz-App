@@ -2,6 +2,15 @@
 
 Welcome to My-Quiz-App, a Java EE web application where you can take quizzes on various topics like Computer, Art, and Science.
 
+## Technologies Used
+
+- Java
+- MySQL
+- Bootstrap
+- JSP (JavaServer Pages)
+- JSTL (JavaServer Pages Standard Tag Library)
+
+
 ![Registration Page](https://github.com/eklavya-byte/My-Quiz-App/blob/main/src/main/webapp/projectImg/My-Quiz-App.png?raw=true)
 
 ## Registration
