@@ -50,5 +50,33 @@ You can view your profile by clicking on your name in the navbar:
 
 Feel free to fork this repository, run it on your local machine, and enjoy the quizzes! 
 
+## To create database & tables make use of these sql queries 😊
 
-Thank you for using My-Quiz-App!
+- create database quiz_app;
+
+- CREATE TABLE `quiz_app`.`user_details` (
+  `user_id` INT NOT NULL AUTO_INCREMENT,
+  `user_name` VARCHAR(45) NULL,
+  `user_email` VARCHAR(45) NULL,
+  `user_password` VARCHAR(45) NULL,
+  PRIMARY KEY (`user_id`));
+  
+- CREATE TABLE `quiz_app`.`result` (
+  `result_id` INT NOT NULL AUTO_INCREMENT,
+  `quiz_name` VARCHAR(45) NULL,
+  `quiz_score` VARCHAR(45) NULL,
+  `result_email` VARCHAR(45) NULL,
+  PRIMARY KEY (`result_id`));
+
+  make relation between that table using following query ->
+  
+- ALTER TABLE `quiz_app`.`result`
+ADD CONSTRAINT `result_user_details_fk`
+  FOREIGN KEY (`result_email`)
+  REFERENCES `quiz_app`.`user_details` (`user_email`);
+
+  - and inside my-quiz-app/src/main/java/quizUtill/Filehandler pass absolute path of your file
+  - if you find any idea how to use relative path there please share with me ! 
+
+
+# Thank you for using My-Quiz-App!
